@@ -1,4 +1,11 @@
-# tareas
+# Producción enlaces:
+
+- Firebase:
+https://tareas-vue-9fc59.web.app
+- Netlify:
+https://tareas-rut.netlify.app
+
+
 
 ## Project setup
 ```
